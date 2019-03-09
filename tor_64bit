@@ -10,8 +10,5 @@ apt-get update
 apt-get install alacarte
 wget https://www.torproject.org/dist/torbrowser/8.0.6/tor-browser-linux64-8.0.6_en-US.tar.xz
 tar xf tor-browser-linux64-8.0.6_en-US.tar.xz
-cd tor-browser-linux64-8.0.6_en-US
-cd Browser
-rm start-tor-browser
-wget http://download2261.mediafire.com/26azml262ljg/hhu8hyhmyvybyql/start-tor-browser
+echo 'Now Delete the start-tor-browser file from tor-browser-en-US/Browser And Move The start-tor-browser file from Torinstaller folder'
 echo 'Script By Joy Ghosh<mail:joychondroghosh@gmail.com'
